@@ -1,0 +1,22 @@
+html {
+  background: var(--cor-b1);
+  scroll-behavior: smooth;
+  color: var(--cor-b2);
+}
+.header {
+  display: flex;
+  justify-content: center;
+  padding: 2vh 250px;
+  z-index: 1000;
+  align-items: center;
+  align-self: center;
+  align-content: center;
+}
+.logo {
+  text-decoration: none;
+  font-family: "timeline";
+  font-size: 300%;
+  color: var(--cor-b2);
+  white-space: nowrap;
+  position: relative;
+}

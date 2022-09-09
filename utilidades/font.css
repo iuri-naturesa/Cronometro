@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "timeline";
+  src: url(./outros/Timeline.ttf);
+}
+
+@font-face {
+  font-family: "raleway-eb";
+  src: url(./outros/Raleway-ExtraBold.ttf);
+}
+
+@font-face {
+  font-family: "mont-l";
+  src: url(./outros/Montserrat-Light.ttf);
+}
+@font-face {
+  font-family: "mont-m";
+  src: url(./outros/Montserrat-Medium.ttf);
+}
+/* @font-face {
+  font-family: "mont-sb;
+  src: url(./outros/Montserrat-Medium.ttf);
+} */
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap");
+/* font-family: 'Roboto', sans-serif; */

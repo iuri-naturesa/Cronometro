@@ -1,0 +1,7 @@
+@import url(./utilidades/reset.css);
+@import url(./utilidades/cor.css);
+@import url(./utilidades/font.css);
+@import url(./utilidades/utilidades.css);
+@import url(./header/header.css);
+@import url(./header/header-mobile.css);
+@import url(./main/main.css);
